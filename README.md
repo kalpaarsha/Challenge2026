@@ -4,7 +4,7 @@
 **Weekly AI-for-Good projects for professionals who want to create real impact — one week at a time.**
 
 
-> "Build something that matters. Every single week in 2026."
+> "Build something that matters....Every single week in 2026."
 
 ### Why This Challenge Exists
 Most AI challenges are toy problems.  
