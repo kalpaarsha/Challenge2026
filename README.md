@@ -3,10 +3,6 @@
 
 **Weekly AI-for-Good projects for professionals who want to create real impact — one week at a time.**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-impact-challenge-2026.svg)]([README.md](https://github.com/kalpaarsha/Challenge2026))
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![HuggingFace](https://img.shields.io/badge/🤗-Hugging_Face-yellow)
 
 > "Build something that matters. Every single week in 2026."
 
